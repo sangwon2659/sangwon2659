@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwon2659)]
-
 # 💪Skills
 ### Platforms & Tools
 [![My Skills](https://skillicons.dev/icons?i=opencv,visualstudio,dotnet,matlab,cmake,tensorflow,pytorch,raspberrypi,arduino,unity&perline=20)](https://skillicons.dev)
