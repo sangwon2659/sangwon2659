@@ -6,15 +6,8 @@
 
 ## 🤖 관심사
 
-- VLA (Vision-Language-Action) 정책 학습과 post-training
-- VLA 모델의 실시간 실행과 속도 가속
-- 3D 인식, calibration, classical computer vision
-
-## 🧰 다루는 기술
-
-**AI · 정책 학습** — VLA fusion architecture · advantage-conditioned policy learning · VLA acceleration · RL
-
-**비전 · 로보틱스** — OpenCV · ROS / ROS2 · homography · RANSAC · camera-to-robot calibration · structured-light / ToF / stereo 카메라 · KUKA · Robotis Dynamixel
+- VLA (Vision-Language-Action)
+- 2D/3D 비전 인식, calibration, classical computer vision
 
 ## 💻 사용하는 언어와 도구
 
