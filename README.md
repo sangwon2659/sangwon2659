@@ -1,6 +1,6 @@
 # 안녕하세요 👋
 
-로보틱스·비전 소프트웨어 엔지니어입니다.
+로보틱스·비전 소프트웨어 엔지니어입니다. 
 [CV](https://sangwon2659.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/s-won-lee/) · [Email](mailto:sangwon2659@gmail.com)
 
 ## 🤖 관심사
