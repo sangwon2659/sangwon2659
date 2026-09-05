@@ -7,7 +7,7 @@
 ## 🤖 관심사
 
 - VLA (Vision-Language-Action)
-- 2D/3D 비전 인식, calibration, classical computer vision
+- 2D/3D Vision AI, Classical computer vision
 
 ## 💻 사용하는 언어와 도구
 
