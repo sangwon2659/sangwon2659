@@ -38,15 +38,16 @@
 - H. Bamshad, **S. Lee**, K. Son, H. Jeong, G. Kwon, H. Yang. "Multilayer-perceptron-based Slip Detection Algorithm Using Normal Force Sensor Arrays." *Sensors and Materials* 35(2), 365–376, 2023.
 - **S. Lee**, W. Jeon, K. Son, H. Yang. "Object Slip Detection Algorithm with the Sole Use of Normal Reaction Force Data." 대한기계학회 호남지부 학술대회, 포스터, 2021.
 
-## 🧰 기술 스택
+## 🧰 다루는 기술
 
 | | |
 |---|---|
-| **AI / Deep Learning** | PyTorch · Hugging Face Transformers · LeRobot · VLA fusion architecture · YOLO11 · Mask2Former · DETR · SigLIP · multi-node distributed training |
-| **정책 학습 · 실시간 실행** | advantage-conditioned policy learning · Real-Time Chunking · asynchronous inference · 최적화 기반 action post-processing · diffusion-steering RL |
-| **Computer Vision** | OpenCV · hierarchical template matching · homography estimation · RANSAC variants · Direct Linear Transformation · camera-to-robot calibration · structured-light / ToF / stereo 카메라 |
-| **로보틱스 · 제어** | ROS · ROS2 · 순·역기구학 · path planning · KUKA 산업용 로봇 · Robotis Dynamixel · LQR · LQG · MRAC · MPC · Kalman filter |
-| **시스템** | Linux · Docker · multi-PC / multi-robot / multi-camera 병렬 I/O · I2C · SPI · TCP/IP · Modbus · CAN · PLC |
+| **모델 · 아키텍처** | VLA fusion architecture · YOLO11 · Mask2Former · DETR · SigLIP |
+| **정책 학습 · 실시간 실행** | advantage-conditioned policy learning · diffusion-steering RL · Real-Time Chunking · asynchronous inference · 최적화 기반 action post-processing · multi-node distributed training |
+| **비전 알고리즘** | homography estimation · RANSAC variants · Direct Linear Transformation · hierarchical template matching · camera-to-robot calibration |
+| **제어 · 기구학** | LQR · LQG · MRAC · MPC · Kalman filter · 순·역기구학 · path planning |
+| **프레임워크 · 라이브러리** | PyTorch · Hugging Face Transformers · LeRobot · OpenCV · ROS / ROS2 |
+| **하드웨어 · 인터페이스** | structured-light / ToF / stereo 카메라 · KUKA 산업용 로봇 · Robotis Dynamixel · I2C · SPI · TCP/IP · Modbus · CAN · PLC |
 
 ## 💻 사용하는 언어와 도구
 
