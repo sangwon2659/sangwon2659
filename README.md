@@ -1,7 +1,6 @@
 # 안녕하세요 👋
 
-로보틱스·비전 소프트웨어 엔지니어 **이상원**입니다. 삼성전자 **Robotics AI Team (RX)** 에서 휴머노이드 로봇의 비전과 정책 학습 소프트웨어를 만들고 있습니다. 그 전에는 Visual Display 사업부에서 양산 라인의 로봇 비전과 검사 시스템을 담당했고, 대학원에서는 촉각 센싱과 제어를 공부했습니다.
-
+로보틱스·비전 소프트웨어 엔지니어입니다.
 [CV](https://sangwon2659.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/s-won-lee/) · [Email](mailto:sangwon2659@gmail.com)
 
 ## 🤖 관심사
@@ -19,8 +18,6 @@
 ## 💻 사용하는 언어와 도구
 
 [![Languages and tools](https://skillicons.dev/icons?i=cpp,c,cs,python,linux,docker,git,visualstudio,dotnet,matlab,cmake,arduino,unity&perline=20)](https://skillicons.dev)
-
-🇰🇷 한국어 (모국어) · 🇺🇸 영어 (OPI: Superior)
 
 <!--
 **sangwon2659/sangwon2659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
