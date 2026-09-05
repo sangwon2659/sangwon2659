@@ -10,13 +10,13 @@
 삼성전자 Robotics AI Team (RX), 서울 · 2026.01 – 현재
 
 - Learned projector 기반 multi-modal VLA fusion 아키텍처 설계 및 multi-node GPU 클러스터 학습
-- 양팔 매니퓰레이션을 위한 offline advantage-conditioned policy post-training, RL-for-VLA 조사
-- 실시간 정책 실행 속도 가속 — 방법론 서베이부터 실제 로봇 배포까지
+- 양팔 매니퓰레이션을 위한 offline advantage-conditioned policy post-training
+- 실시간 정책 실행 속도 가속 — 실제 로봇 배포
 - Time-warped demonstration 기반 속도 증강 학습, 학습 데이터 품질 진단
 - Custom keypoint head를 붙인 detection, 신뢰성이 중요한 구간을 위한 classical computer vision
 
 **Robot & Quality Control Vision System Engineer**
-삼성전자 Visual Display, 제조기술그룹, 수원 · 2022.09 – 2026.01
+삼성전자 Visual Display, 공정기술그룹, 수원 · 2022.09 – 2026.01
 
 - Bin-picking 비전 — structured-light 3D 취득, instance segmentation, pick 선정, grasp pose 추정
 - Palletizing 비전 — ToF depth 기반 박스 검출, 3D 위치 추정, 적재 패턴 자동 생성
